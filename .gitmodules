@@ -1,0 +1,6 @@
+[submodule "native"]
+	path = native
+	url = https://github.com/eugrdn/react-native-app-starter.git
+[submodule "server"]
+	path = server
+	url = https://github.com/eugrdn/node-service-starter.git
