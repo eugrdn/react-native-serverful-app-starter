@@ -1,4 +1,6 @@
-# React Native Serverful App Starter
+<p align="center">
+  <img src='https://github.com/eugrdn/screenshots/blob/master/sk-title.png' />
+</p>
 
 ## Stack
 
@@ -22,4 +24,4 @@ API is fully typized. To update typings for the models on the client from the se
 ```bash
 npm run gql-gen
 ```
-command that will generate types through the graphql API (server's `./common/typings/types.d.ts` will be generated automatically). This command will check graphql schemas, so it requires running service.
+command that will generate types through the graphql API (`./common/typings/types.d.ts` will be generated automatically). This command will check graphql schemas, so it requires running service.
