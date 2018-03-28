@@ -11,6 +11,7 @@ Both of the apps are written on TS 2.7.2
 
 ### Service
 - express
+- pg
 - sequelize
 - apollo-server-express
 - jsonwebtoken (auth)
